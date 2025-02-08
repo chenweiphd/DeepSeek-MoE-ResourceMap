@@ -1,8 +1,18 @@
 # DeepSeek-MoE-ResourceMap
 
-## DeepSeek and MoE Model Explain
+## 1 Introduction
 
-### Architecture
+
+
+This is a repo about DeepSeek model architecture, training, deploy and distill
+
+## 2 How to Use DeepSeek
+
+
+
+## 3 DeepSeek and MoE Model Explain
+
+### 3.1 Architecture
 
 | Classification | Title                                                        | Link                                     |
 | -------------- | ------------------------------------------------------------ | ---------------------------------------- |
@@ -16,7 +26,7 @@
 
 
 
-Training
+### 3.2 Training
 
 | Classification     | Title                                                        | Link                                                         |
 | ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -30,7 +40,7 @@ Training
 
 
 
-## DeepSeek Related Paper
+### 3.3 DeepSeek Related Paper
 
 
 
@@ -46,9 +56,9 @@ Training
 
 
 
-## DeepSeek Deploy
+## 4 DeepSeek Deploy
 
-### Memory Requirements(From Xinference)
+### 4.1 Memory Requirements(From Xinference)
 
 | Model                | # parameters | Data type | Memory Requirements |
 | -------------------- | ------------ | --------- | ------------------- |
@@ -63,7 +73,7 @@ Training
 | R1-Distill-Qwen-7B   | 7B           | BF16      | ≥20GB               |
 | R1-Disti11-0wen-1.5B | 1.5B         | BF16      | ≥5GB                |
 
-
+### 4.2 Deploy
 
 | Item                        | Title                                | Link                                     |
 | --------------------------- | ------------------------------------ | ---------------------------------------- |
@@ -77,7 +87,7 @@ Training
 
 
 
-## Distill
+## 5 Distill
 
 | Item           | Title                                          | Link                                 |
 | -------------- | ---------------------------------------------- | ------------------------------------ |
@@ -93,7 +103,7 @@ Training
 
 
 
-## Comment about DeepSeek
+## 6 Comment about DeepSeek
 
 | Author       | Title                           | Link                                                    |
 | ------------ | ------------------------------- | ------------------------------------------------------- |
@@ -104,7 +114,7 @@ Training
 
 
 
-## DeepSeek Model Link
+## 7 DeepSeek Model Link
 
 | Item                        | Link                                             |
 | --------------------------- | ------------------------------------------------ |
