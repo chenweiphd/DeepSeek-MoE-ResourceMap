@@ -16,7 +16,21 @@
 
 
 
-DeepSeek paper
+Training
+
+| Classification     | Title                                                        | Link                                                         |
+| ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| GRPO               | GRPO：Group Relative Policy Optimization                     | https://zhuanlan.zhihu.com/p/20021693569                     |
+| Rejection Sampling | LLM-Rejection Sampling                                       | https://zhuanlan.zhihu.com/p/4547529049                      |
+| Rejection Sampling | LLM Training Trick (1) -Rejection Sampling                   | https://zhuanlan.zhihu.com/p/649731916                       |
+| Fill in the Middle | Efficient Training of Language Models to Fill in the Middle  | https://huggingface.co/papers/2207.14255                     |
+| Fill in the Middle | OpenAI Presents a Simple and Efficient Training Strategy to Boost Language Models’ Text-Infilling Capabilities | https://syncedreview.com/2022/08/04/openai-presents-a-simple-and-efficient-training-strategy-to-boost-language-models-text-infilling-capabilities/ |
+| Fill in the Middle | “Where’s the Beef”, Codestral’s Fill-In-the-Middle Magic     | https://auro-227.medium.com/wheres-the-beef-codestral-s-fill-in-the-middle-magic-c0804094a424 |
+|                    |                                                              |                                                              |
+
+
+
+## DeepSeek Related Paper
 
 
 
@@ -28,7 +42,7 @@ DeepSeek paper
 | Coder-V2                    | DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence | https://arxiv.org/abs/2406.11931    |
 | HAI Platform（Not a model） | Fire-Flyer AI-HPC: A Cost-Effective Software-Hardware Co-Design for Deep Learning | https://arxiv.org/html/2408.14158v2 |
 |                             |                                                              |                                     |
-|                             |                                                              |                                     |
+| Fill in the Middle          | Efficient Training of Language Models to Fill in the Middle  | https://arxiv.org/pdf/2207.14255    |
 
 
 
