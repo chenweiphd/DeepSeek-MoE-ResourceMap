@@ -48,9 +48,24 @@ Training
 
 ## DeepSeek Deploy
 
+### Memory Requirements(From Xinference)
+
+| Model                | # parameters | Data type | Memory Requirements |
+| -------------------- | ------------ | --------- | ------------------- |
+| R1                   | 685B         | FP8       | ≥890GB              |
+| R1                   | 685B         | INT4      | ≥450GB              |
+| V3                   | 671B         | FP8       | ≥870GB              |
+| V3                   | 671B         | INT4      | ≥440GB              |
+| R1-Distill-Llama-70B | 70B          | BF16      | ≥180GB              |
+| R1-Distil1-Qwen-32B  | 32B          | BF16      | ≥80GB               |
+| R1-Distil1-Qwen-14B  | 14B          | BF16      | ≥40GB               |
+| R1-Disti11-Llama-8B  | 8B           | BF16      | ≥22GB               |
+| R1-Distill-Qwen-7B   | 7B           | BF16      | ≥20GB               |
+| R1-Disti11-0wen-1.5B | 1.5B         | BF16      | ≥5GB                |
 
 
-| tem                         | Title                                | Link                                     |
+
+| Item                        | Title                                | Link                                     |
 | --------------------------- | ------------------------------------ | ---------------------------------------- |
 |                             |                                      |                                          |
 | Ollama                      | DeepSeek Simple Local Deploy         | https://zhuanlan.zhihu.com/p/21311556084 |
@@ -59,6 +74,22 @@ Training
 |                             |                                      |                                          |
 |                             |                                      |                                          |
 |                             |                                      |                                          |
+
+
+
+## Distill
+
+| Item           | Title                                          | Link                                 |
+| -------------- | ---------------------------------------------- | ------------------------------------ |
+|                |                                                |                                      |
+| Custom Distill | Train your own R1 reasoning model with Unsloth | https://unsloth.ai/blog/r1-reasoning |
+|                |                                                |                                      |
+|                |                                                |                                      |
+|                |                                                |                                      |
+|                |                                                |                                      |
+|                |                                                |                                      |
+
+
 
 
 
