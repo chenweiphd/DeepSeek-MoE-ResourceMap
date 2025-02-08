@@ -17,15 +17,19 @@ This is a repo about DeepSeek model architecture, training, deploy and distill
 
 ### 3.1 Architecture
 
-| Classification | Title                                                        | Link                                     |
-| -------------- | ------------------------------------------------------------ | ---------------------------------------- |
-| Summary        | 陈巍：DeepSeek是否有国运级的创新？（上）从V3到R1的架构创新与误传的2万字长文分析 | https://zhuanlan.zhihu.com/p/21208287743 |
-| Summary        | 陈巍：DeepSeek是否有国运级的创新？（下）从V3到R1的架构创新与误传的2万字长文分析 | https://zhuanlan.zhihu.com/p/21755758234 |
-|                |                                                              |                                          |
-|                |                                                              |                                          |
-|                |                                                              |                                          |
-|                |                                                              |                                          |
-|                |                                                              |                                          |
+| Classification | Title                                                      | Link                                     |
+| -------------- | ---------------------------------------------------------- | ---------------------------------------- |
+| Summary        | DeepSeek V3-R1 Deep Explain (1) -v1.31                     | https://zhuanlan.zhihu.com/p/21208287743 |
+| Summary        | DeepSeek V3-R1 Deep Explain (2) -v1.31                     | https://zhuanlan.zhihu.com/p/21755758234 |
+|                |                                                            |                                          |
+| MoE            | MoE Explain                                                | https://zhuanlan.zhihu.com/p/674698482   |
+| DeepSeekMoE    | DeepSeek MOE—From Switch Transformers to DeepSeek v1/v2/v3 | https://zhuanlan.zhihu.com/p/21584562624 |
+| MLA            | DeepSeek-V2 MLA KV Cache                                   | https://zhuanlan.zhihu.com/p/714761319   |
+| MLA            | DeepSeekV2 Multi-head Latent Attention                     | https://zhuanlan.zhihu.com/p/714686419   |
+| MTP            | DeepSeek V3: Multi-token Prediction                        | https://zhuanlan.zhihu.com/p/16540775238 |
+| MTP            | Multi-Token Prediction                                     | https://zhuanlan.zhihu.com/p/15823898951 |
+
+
 
 
 
