@@ -60,4 +60,10 @@ DeepSeek paper
 |                             |                                                  |
 
 
+## Discussion Group
+
+请添加群助理，加入相应讨论群。添加时请注明：称呼-所在单位-要加入的群
+
+![image](https://github.com/user-attachments/assets/6b757bea-a656-4aac-8e5d-83525130db20)
+
 
