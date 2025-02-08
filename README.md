@@ -50,6 +50,18 @@ Training
 
 
 
+| tem                         | Title                                | Link                                     |
+| --------------------------- | ------------------------------------ | ---------------------------------------- |
+|                             |                                      |                                          |
+| Ollama                      | DeepSeek Simple Local Deploy         | https://zhuanlan.zhihu.com/p/21311556084 |
+| SiliconFlow                 | DeepSeek Simple Local API            | https://zhuanlan.zhihu.com/p/21170425824 |
+| Ollama+Dynamic Quantization | DeepSeek-R1 671B Simple Local Deploy | https://zhuanlan.zhihu.com/p/21856074485 |
+|                             |                                      |                                          |
+|                             |                                      |                                          |
+|                             |                                      |                                          |
+
+
+
 ## Comment about DeepSeek
 
 | Author       | Title                           | Link                                                    |
