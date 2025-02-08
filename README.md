@@ -1,5 +1,8 @@
 # DeepSeek-MoE-ResourceMap
 
+![image](https://github.com/user-attachments/assets/63e68241-e4c9-49a8-a608-52dd05324581)
+
+
 ## 1 Introduction
 
 
