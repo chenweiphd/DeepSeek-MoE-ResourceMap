@@ -137,7 +137,8 @@ This is a repo about DeepSeek model architecture, training, deploy and distill
 
 ## Discussion Group
 
-| DeepSeek and MoE Discussion Group                            | ![MoEgroup](https://github.com/user-attachments/assets/9f55810b-d5f1-4846-a34e-0960088cc425) |
+| DeepSeek and MoE Discussion Group                            |![image](https://github.com/user-attachments/assets/1c890160-1f02-479b-a491-4b2c318eb782)
+ |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 请添加群助理，加入相应讨论群。添加时请注明：称呼-所在单位-要加入的群 | ![image](https://github.com/user-attachments/assets/6b757bea-a656-4aac-8e5d-83525130db20) |
 
